@@ -1,0 +1,12 @@
+[
+    {
+        "model-name": "Client",
+        "resource-file": "clients.json",
+        "table-name": "clients"
+    },
+    {
+        "model-name": "ManualBooking",
+        "resource-file": "manual_bookings.json",
+        "table-name": "manual_bookings"
+    }
+]
